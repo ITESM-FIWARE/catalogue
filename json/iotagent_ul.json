@@ -1,15 +1,5 @@
 {
-	"version" : "1.5.2",
-	"failureRate" : "A+++",
-	"failureValue" : 0,
-	"timeToCharge" : "D",
-	"timeToChargeValue" : 36.49,
-	"timeToFix" : "D",
-	"timeToFixValue" : 50.55,
-	"scalability" : "A+++",
-	"scalabilityValue" : 1.003,
-	"performance" : "A+",
-	"performanceValue" : "260 updates/sec",
-	"stability" : "B",
-	"stabilityValue" : "LEAK"
+	"version" : "1.7.0",
+	"docCompleteness": "C",
+	"docSoundness" : "B"
 }
